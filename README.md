@@ -1,2 +1,2 @@
-# Psicol-gico-
-Teste
+# app.py
+Psicológico 
